@@ -1,3 +1,6 @@
+## 1.0.1 
+- implemented nullable migation
+
 ## 0.3.1+4
 - single quotes replace escape sequences.
 
