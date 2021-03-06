@@ -1,0 +1,15 @@
+name: gbk_codec
+description: GBK codec converter (enCode and deCode) library includes bytes codec.
+version: 1.0.0
+homepage: https://www.coodtec.com
+author: John Wang <0@coodtec.com>
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  html: ^0.15.0
+
+dev_dependencies:
+  pedantic: ^1.11.0
+
